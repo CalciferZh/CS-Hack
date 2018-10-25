@@ -19,5 +19,3 @@ Simple and naive cheating in CS 1.6. Collaborator: @VicaYang @IrisYGL.
 
 ## Demo
 [Demo](https://youtu.be/OXbHltHgf-U)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OXbHltHgf-U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
