@@ -1,5 +1,5 @@
 # CS-Hack
-Simple and naive cheating in CS 1.6. Collaborator: @VicaYang @IrisYGL.
+Simple and naive cheating in CS 1.6. Collaborator: @VicaYang @IrisYGL. We have a explanation in Chinese [here](https://blog.vicayang.cc/Project-CS1-6-hack/).
 
 ## Features
 1. Damage immunity.
